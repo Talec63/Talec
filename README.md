@@ -3,7 +3,7 @@
 <center><img src="https://media0.giphy.com/media/7E63hj0J20hKVzDcm8/giphy.gif?cid=ecf05e477h18zma4obldv0s83iz96plmjoe48p5lu3whe4v3&rid=giphy.gif" /></center>
 
 
-- 🔭 I am working at the moment on [my own framework on FiveM](https://github.com/Talec63/tFramework)
+- 🔭 I'm working at the moment on [my own framework on FiveM](https://github.com/Talec63/tFramework)
 
 - 🌱 I’m currently learning **lua, php, javascript, c# and python**
 
