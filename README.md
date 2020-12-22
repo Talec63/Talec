@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Talec</h1>
 <h3 align="center">I'm passionate by programming</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=talec63&label=Profile%20views&color=0e75b6&style=flat" alt="talec63" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talec63" alt="talec63" /></a> </p>
-
 - 🔭 I am working at the moment on [my own framework on FiveM](https://github.com/Talec63/tFramework)
 
 - 🌱 I’m currently learning **lua, php, javascript, c# and python**
