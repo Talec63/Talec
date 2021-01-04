@@ -3,7 +3,7 @@
 
 - 🔭 I'm working at the moment on [my own framework on FiveM](https://github.com/Talec63/tFramework)
 
-- 🌱 I’m currently learning **lua, php, javascript, c# and python**
+- 🌱 I’m currently learning **lua, php, javascript, python and java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Talec63](https://github.com/Talec63)
 
