@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Talec</h1>
 <h3 align="center">I'm passionate by programming</h3>
 
-- 🔭 I'm working at the moment on [Minecraft Server (RinaOrc)](https://discord.com/invite/vXYXrGk)
-
 - 🌱 I’m currently learning **lua, php, javascript, python and java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Talec63](https://github.com/Talec63)
