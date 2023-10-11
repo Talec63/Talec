@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Talec</h1>
 <h3 align="center">I'm passionate by programming and cybersecurity</h3>
 
-- 🔭 I’m currently working on **silentminer**
-
-- 🌱 I’m currently learning **pentesting, cheat creation**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Talec63](https://github.com/Talec63)
 
